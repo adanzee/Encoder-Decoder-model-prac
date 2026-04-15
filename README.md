@@ -1,4 +1,4 @@
-Autoencoder on MNIST (Encoder–Decoder Architecture)
+## Autoencoder on MNIST (Encoder–Decoder Architecture)
 
 ## 📌 Overview
 
