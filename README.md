@@ -135,11 +135,3 @@ or open in Google Colab.
 
 ---
 
-## 🔮 Future Improvements
-
-* Use **Convolutional Autoencoders** for better image quality
-* Experiment with **Variational Autoencoders (VAE)**
-* Add **noise (Denoising Autoencoder)**
-* Increase latent dimension for richer representation
-
----
